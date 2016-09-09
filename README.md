@@ -11,7 +11,7 @@ Sontype Nexus Links: 1.Download Jfrog Artifactory Installers [64bit] <br>
 https://www.jfrog.com/open-source/
 
 2.Documentation for Jfrog Artifactory  <br>
-http://books.sonatype.com/sonatype-clm-book/html <br>
+https://www.jfrog.com/confluence/display/RTF/Welcome+to+Artifactory <br>
 Docker Links: <br>
 
 3.How to start with Docker: <br>
