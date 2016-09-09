@@ -26,3 +26,8 @@ Before Building Image install and configure Python to host http server for your 
 2.Execute the docker Command to build the Image docker build -t artifactory:stable. <br>
 wait till it finish sucessfully without any error. <br>
 
+Create Container for Artifactory:
+
+
+
+
