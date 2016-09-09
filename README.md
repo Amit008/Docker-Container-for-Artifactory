@@ -19,3 +19,10 @@ https://docs.docker.com/docker-for-mac/ <br>
 https://www.docker.com/ <br>
 4.Documentation: <br>
 https://docs.docker.com/  <br>
+
+Builing Image for Artifactory <br>
+Before Building Image install and configure Python to host http server for your installers[refer the dockerfile for URL and change it accordingly].<br>
+1.create a Directory Artifactory and copy the Dockerfile in it <br>
+2.Execute the docker Command to build the Image docker build -t artifactory:stable. <br>
+wait till it finish sucessfully without any error. <br>
+
