@@ -27,6 +27,7 @@ Before Building Image install and configure Python to host http server for your 
 wait till it finish sucessfully without any error. <br>
 
 Create Container for Artifactory:
+docker run -P --expose <portNo>  -it <container-ID> /tmp/startup.sh
 
 
 
